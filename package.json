@@ -1,0 +1,19 @@
+{
+  "name": "pay-pay-api-sdk",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}

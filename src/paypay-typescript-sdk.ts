@@ -64,7 +64,7 @@ export class PayPaySDK {
 
   constructor(config: PayPayConfig) {
     this.config = {
-      baseUrl: 'https://openapi.paypayafrica.com/gateway.do',
+      baseUrl: 'https://gateway.paypayafrica.com/recv.do',
       version: '1.0',
       charset: 'UTF-8',
       format: 'JSON',

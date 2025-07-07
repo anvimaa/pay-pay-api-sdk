@@ -16,7 +16,7 @@ SEU_PRIVATE_KEY_AQUI
   publicKey: `-----BEGIN PUBLIC KEY-----
 CHAVE_PUBLICA_PAYPAY_AQUI
 -----END PUBLIC KEY-----`,
-  baseUrl: 'https://openapi.paypayafrica.com/gateway.do',
+  baseUrl: 'https://gateway.paypayafrica.com/recv.do',
   version: '1.0',
   charset: 'UTF-8',
   format: 'JSON',
